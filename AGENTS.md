@@ -9,7 +9,7 @@ Página estática de teste (HTML + CSS), sem backend, build ou framework — usa
 
 ## Stack e comandos
 - Rodar: abrir `index.html` diretamente no navegador
-- Testes: Não se aplica — página estática sem lógica
+- Testes: `node --test` (roda os `*.test.js`; testa só funções puras, sem tocar DOM/clipboard/rede)
 - Lint: Não se aplica
 - Branch base: `main`
 
